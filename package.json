@@ -1,5 +1,5 @@
 {
-  "name": "nonblock",
+  "name": "funwork",
   "version": "0.0.1",
   "description": "Make functions become non-blocking thougth workers.",
   "main": "index.js",
