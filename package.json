@@ -1,0 +1,23 @@
+{
+  "name": "nonblock",
+  "version": "0.0.1",
+  "description": "Make functions become non-blocking thougth workers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nonblock",
+    "worker",
+    "async",
+    "event-loop",
+    "background",
+    "parallel"
+  ],
+  "author": "Joan Miquel Torres <jmtorres@112ib.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "deasync": "^0.1.10",
+    "webworker-threads": "^0.7.11"
+  }
+}
