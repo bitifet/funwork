@@ -1,6 +1,6 @@
 {
   "name": "funwork",
-  "version": "0.0.1",
+  "version": "0.0.1+",
   "description": "Make functions become non-blocking thougth workers.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "author": "Joan Miquel Torres <jmtorres@112ib.com>",
   "license": "GPL-3.0",
   "dependencies": {
-    "deasync": "^0.1.10",
+    "deasync": "^0.1.12",
     "webworker-threads": "^0.7.11"
   }
 }

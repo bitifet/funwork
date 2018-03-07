@@ -1,0 +1,11 @@
+TODO List
+=========
+
+  * Move to single worker to worker queue.
+
+  * Implement worker(s) finalization policies.
+
+  * Make number of available workers dynamic.
+    - By setter (getter/setter) method.
+    - By demand (define and implement criterias to populate / remove workers).
+
